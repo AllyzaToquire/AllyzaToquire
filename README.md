@@ -4,7 +4,7 @@
 <h3 align="center">A passionate student programmer from Philippines</h3>
 
 
-![atukeee](https://github.com/atukeee/atukeee/blob/main/ezgif.com-gif-maker.gif)
+![AllyzaToquire](https://github.com/atukeee/atukeee/blob/main/ezgif.com-gif-maker.gif)
 
 <p align="center">
     <a href="https://www.linkedin.com/in/maria-allyza-toquire-83057921b/" target="_blank">
@@ -52,11 +52,11 @@
 ![Top Langs](https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=CharalambosIoannou&hide=php&theme=tokyonight)
 -->
 <div>
-<a href="https://github-readme-stats.vercel.app/api?username=atukeee&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dark">
-  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=atukeee&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dark" />
+<a href="https://github-readme-stats.vercel.app/api?username=AllyzaToquire&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dark">
+  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=AllyzaToquire&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dark" />
 </a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=atukeee&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dark">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atukeee&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dark" />
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=AllyzaToquire&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dark">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllyzaToquire&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dark" />
 </a>
 </div>
 
